@@ -4,5 +4,5 @@ Multi-label land cover classification is less explored compared to single-label 
 In this Project, we will use the redesigned Multi-label UC Merced dataset with 18 land cover classes. UC Merced Land use dataset was originally introduced as one of the earliest satellite datasets for computer vision. In fact, the UC Merced dataset is considered the MNIST of satellite image dataset. The original dataset consisted of 21 classes of single-label classification.
 
 # Download the dataset
-You can download UC Merced Land Use Dataset from the below link
+You can download UC Merced Land Use Dataset from the given link
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
